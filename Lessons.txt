@@ -1,0 +1,4 @@
+Informatics: 30 20 10
+Russian: 40 30 0
+Mathematics: 40 40 0
+OOPiP: 90 0 50
